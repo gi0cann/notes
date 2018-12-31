@@ -1,0 +1,19 @@
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule "themes/code-editor"]
+	path = themes/code-editor
+	url = https://github.com/aubm/hugo-code-editor-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:gi0cann/gi0cann.github.io.git
+	branch = master

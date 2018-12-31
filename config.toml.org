@@ -1,0 +1,4 @@
+baseURL = "https://gi0cann.io/"
+languageCode = "en-us"
+title = "gi0cann's notes"
+theme = "ananke"

@@ -1,0 +1,8 @@
+baseURL = "https://gi0cann.io/"
+languageCode = "en-us"
+title = "gi0cann's notes"
+theme = "code-editor"
+
+[params]
+    author = "gi0cann"
+    locale = "en-US"
